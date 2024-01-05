@@ -45,7 +45,7 @@ export const DeleteMessage = () => {
                         Delete Message
                     </DialogTitle>
                     <DialogDescription className="text-center text-zinc-500">
-                        Are you sure you want to permanently 'Delete' the message
+                        Are you sure you want to permanently Delete the message
                     </DialogDescription>
                 </DialogHeader>
                 <DialogFooter className="bg-zinc-100 px-6 py-4">

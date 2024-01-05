@@ -86,7 +86,7 @@ export const ChatItem = (
         form.reset({
             content:content
         })
-    },[content])
+    },[content,form])
 
     const params=useParams()
     const router=useRouter()
